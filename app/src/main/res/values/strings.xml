@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ListView</string>
     <string name="delete_button">删除</string>
+    <string name="add_button">添加</string>
 </resources>
